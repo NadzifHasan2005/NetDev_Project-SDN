@@ -19,4 +19,3 @@ Software Defined Networking (SDN) adalah sebuah pendekatan arsitektur jaringan y
 - Virtualisasi
 - Scalability
 - Penghematan Biaya
-
