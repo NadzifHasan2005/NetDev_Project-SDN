@@ -1,7 +1,6 @@
 # Minikube 
 Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop lokal.
 1. Update repository
-    :::success
     ```
     sudo apt update && sudo apt upgrade -y
     ```
@@ -15,7 +14,6 @@ Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop
     Output:
 
 3. Install Docker
-    :::success
     ```
     sudo apt
         ```
@@ -24,7 +22,6 @@ Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop
     Docker sebagai depedensi untuk deployment.
 
 4. Install Containerd
-    :::success
     ```
     sudo apt install -y containerd
     ```
@@ -34,7 +31,6 @@ Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop
     Containerd sebagai komponen untuk menjalankan dan mengelola container dalam suatu sistem. Containerd ini yang digunakan untuk menjalankan Kubernetes, cenderung lebih cepat dibandingkan Docker dan sebagai standar untuk Kubernetes.
 
 6. Menyalakan Containerd
-    :::success
     ```
     sudo systemctl enable --now containerd
     ```
