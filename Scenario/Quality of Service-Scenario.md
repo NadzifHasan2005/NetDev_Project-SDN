@@ -1,4 +1,4 @@
-## Skenerio 3: QoS (Quality of Sevice)
+# QoS (Quality of Sevice)
 
 Quality of Service (QoS) di Kubernetes adalah sistem yang mengelola dan memprioritaskan alokasi sumber daya (CPU dan memori) di antara Pod, memastikan bahwa aplikasi penting mendapatkan sumber daya yang dibutuhkan dan sistem tetap stabil. Kubernetes membagi Pod menjadi tiga kelas QoS: Guaranteed (Dijamin), Burstable (Dapat Dilanggar), dan BestEffort (Upaya Terbaik). 
 
