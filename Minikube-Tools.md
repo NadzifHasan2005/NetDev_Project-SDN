@@ -1,4 +1,4 @@
-### 2. Minikube 
+# Minikube 
 Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop lokal.
 1. Update repository
     :::success
