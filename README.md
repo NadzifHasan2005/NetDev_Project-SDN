@@ -5,10 +5,10 @@ Software Defined Networking (SDN) adalah sebuah pendekatan arsitektur jaringan y
 
 #### konsep Penting Terkait SDN: 
 - Control Plane:
-    Fungsi kontrol jaringan yang bertanggung jawab untuk          mengambil keputusan tentang bagaimana data dikirimkan dalam    jaringan. 
+    Fungsi kontrol jaringan yang bertanggung jawab untuk mengambil keputusan tentang bagaimana data dikirimkan dalam    jaringan. 
 - Data Plane:
-    Fungsi pengiriman data yang bertanggung jawab untuk         mengirimkan data sesuai dengan keputusan yang dibuat oleh     control plane. 
+    Fungsi pengiriman data yang bertanggung jawab untuk mengirimkan data sesuai dengan keputusan yang dibuat oleh     control plane. 
 - Controller:
-    Perangkat lunak atau perangkat keras yang mengontrol         control plane dan menerima instruksi dari aplikasi untuk       mengelola lalu lintas jaringan. 
+    Perangkat lunak atau perangkat keras yang mengontrol control plane dan menerima instruksi dari aplikasi untuk       mengelola lalu lintas jaringan. 
 - API (Application Programming Interface):
     Antarmuka yang digunakan oleh aplikasi untuk berkomunikasi    dengan controller dan mengelola jaringan. 
