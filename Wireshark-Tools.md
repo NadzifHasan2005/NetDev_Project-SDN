@@ -1,4 +1,4 @@
-### 4. Wireshark
+### Wireshark
 Wireshark adalah salah satu program untuk menganalisa suatu jaringan, baik itu jaringan kabel maupun jaringan nirkabel. Perangkat ini diguakan untuk pemecahan masalah jaringan, analisis, perangkat lunak dan pengembangan protokol komunikasi.
 
 1. Update dan upgrade `apt`
