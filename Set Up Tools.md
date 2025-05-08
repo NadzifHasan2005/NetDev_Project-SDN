@@ -42,7 +42,7 @@ Minikube adalah alat yang menyiapkan lingkungan **Kubernetes** di PC atau laptop
     Output:</br>
     ![Screenshot 2025-04-30 235759](https://hackmd.io/_uploads/SJEvZOUlgg.png)
 
-## Mininet </br>
+</br>#Mininet </br>
 Mininet adalah sebuah aplikasi emulasi jaringan berbasis light-weight Linux virtualiation yang memungkinkan kita membuat jaringan virtual lengkap dengan switch, router, dan host yang realistis dan berinteraksi dengan real kernel dan program lainnya.
 
 
@@ -72,7 +72,7 @@ mininet/util/install.sh -a
 sudo mn
 ```
 
-# Ryu Controller
+</br># Ryu Controller
 Ryu Controller adalah pengendali jaringan berbasis perangkat lunak (SDN) terbuka yang dirancang untuk meningkatkan kelincahan jaringan dengan mempermudah pengelolaan dan penyesuaian penanganan lalu lintas.
 ```
 #!/bin/bash
@@ -157,7 +157,7 @@ echo "[INFO] Creating ConfigMap, Deployment, and Service for Ryu..."
     echo "kubectl logs -f deploy/ryu-controller"
 ```
 
-# Wireshark
+</br># Wireshark
 Wireshark adalah salah satu program untuk menganalisa suatu jaringan, baik itu jaringan kabel maupun jaringan nirkabel. Perangkat ini diguakan untuk pemecahan masalah jaringan, analisis, perangkat lunak dan pengembangan protokol komunikasi.
 
 1. Update dan upgrade `apt`
