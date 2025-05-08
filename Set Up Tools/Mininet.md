@@ -1,3 +1,7 @@
+## Mininet </br>
+Mininet adalah sebuah aplikasi emulasi jaringan berbasis light-weight Linux virtualiation yang memungkinkan kita membuat jaringan virtual lengkap dengan switch, router, dan host yang realistis dan berinteraksi dengan real kernel dan program lainnya.
+
+
 1. Instalasi Git </br>
   - Update repository 
 
